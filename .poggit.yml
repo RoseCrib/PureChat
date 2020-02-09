@@ -1,8 +1,11 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/RoseCrib/PureChat
 build-by-default: true
 branches:
-- master
+- reborn
 projects:
   PureChat:
     path: ""
+        icon: 863.png
+
+
 ...
